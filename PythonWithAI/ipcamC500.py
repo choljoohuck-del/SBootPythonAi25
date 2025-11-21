@@ -23,7 +23,7 @@
 # cmd 터미널에서 환경설정 적용 실행
 # mosquitto -c mosquitto.conf -v
 # 만약 안되면 services.msc에 가서 서비스 재실행
-
+# pip install paho-mqtt
 import base64
 import io
 from PIL import Image
